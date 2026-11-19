@@ -1,0 +1,11 @@
+{
+    "image": "20261119_150303.jpg",
+    "length_pixels": 842.0,
+    "width_pixels": 271.0,
+    "length_mm_provisional": 199.64,
+    "width_mm_provisional": 64.26,
+    "scale_pixels_per_mm": 4.2175,
+    "mean_foreground_probability": 0.9813,
+    "measurement_status": "PROVISIONAL",
+    "scale_note": "Scale variation across five ruler images was 10.71%. Millimetre values are estimates, not validated measurements."
+}

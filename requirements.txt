@@ -1,0 +1,13 @@
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+Pillow==11.0.0
+scipy==1.14.1
+pandas==2.2.3
+scikit-learn==1.5.2
+matplotlib==3.9.2
+tqdm==4.67.1
+PyYAML==6.0.2
+albumentations==1.4.24
+tensorboard==2.18.0
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
